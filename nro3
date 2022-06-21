@@ -1,0 +1,3 @@
+nueva_variable = "lucas"
+print(nueva_variable)
+print(type(nueva_variable))
